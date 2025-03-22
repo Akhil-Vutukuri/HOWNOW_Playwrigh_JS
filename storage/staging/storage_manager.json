@@ -1,0 +1,59 @@
+{
+  "cookies": [
+    {
+      "name": "hn_session_id",
+      "value": "8da9ffa32fdf5cc448fb5b4c10f7e6c3",
+      "domain": "team.hownowindia.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "browser.timezone",
+      "value": "Asia/Kolkata",
+      "domain": "team.hownowindia.com",
+      "path": "/",
+      "expires": 1773387882,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hn_app_session",
+      "value": "d959e5f3e3b84ec3590a9e4742d5184d",
+      "domain": ".team.hownowindia.com",
+      "path": "/",
+      "expires": 1744443884.439493,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "522=RY8iHk5C4pjFvbnaveKj2L7SL4O8gZMrqJo3Aji0uZBylhH7a_gzOxQMLb_yRJHJ_VA7SQbeDaGJY4GaUDAow2RintLXOzZPXPwYc3kxaZ2NCmnTGW2qjXLOhp_NCWiFSk_a4HbWL4S4MH6FX6E5BK1j9mZUUXd0JN4ckrDIJK2peTwG7LcwSl5EjEc",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1757663084.955564,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://team.hownowindia.com",
+      "localStorage": [
+        {
+          "name": "I18nLocale",
+          "value": "en"
+        },
+        {
+          "name": "hnSessionId",
+          "value": "8da9ffa32fdf5cc448fb5b4c10f7e6c3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+    "users": {
+        "admin": {
+            "email": "akhil.vutukuri@gethownow.com",
+            "password": "Hownow123"
+        },
+        "manager": {
+            "email": "akhil.vutukuri+manager2@gethownow.com",
+            "password": "Hownow123"
+        },
+        "contributor": {
+            "email": "akhil.vutukuri+contributor@gethownow.com",
+            "password": "Hownow123"
+        },
+        "readonly": {
+            "email": "akhil.vutukuri+readonly2@gethownow.com",
+            "password": "Hownow123"
+        }
+    },
+        "learningSections": {
+            "all": "all",
+            "mustDo": "mustDo",
+            "history": "history",
+            "announcements": "announcements",
+            "upcoming": "upcoming"
+        },
+        "contentDetails": {
+            "courseTitlePrefix": "Playwright Automation Course",
+            "shortDescription": "This is a test course created via automation script",
+            "longDescription": "This is a test course created via automation script for testing purpose only by the QA team",
+            "lessonTitle": "Playwright Automation Lesson",
+            "lessonContent": "This is a text added via automation script for testing purpose only by the QA team",
+            "assessmentTitlePrefix": "Playwright Automation Assessment"
+        },
+        "assignees": {
+            "manager": "Akhil Manager",
+            "contributor": "Akhil Contributor",
+            "readonly": "Akhil Readonly"
+        },
+        "skills": {
+            "Test_Automation": "Test Automation",
+            "Manual_Testing": "Manual Testing",
+            "Core_Java": "Core Java"
+        },
+        "channels": {
+            "channel1": "QA",
+            "channel2": "DevOps",
+            "channel3": "Java"
+        },
+        "reviews": {
+            "SmallReview": "This is a test review 1",
+            "BigReview": "This is a test review 2"
+        },
+        "contentProgress": {
+            "inProgress": "In Progress",
+            "comleted": "Completed",
+            "notStarted": "Not Started",
+            "pending": "Pending",
+            "overdue": "Overdue"
+        }
+    }

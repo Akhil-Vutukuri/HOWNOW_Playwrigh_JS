@@ -1,0 +1,10 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/HNP_Output/
+/test-data/hnp-data.json/
+/test-results/

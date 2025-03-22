@@ -1,0 +1,49 @@
+{
+  "cookies": [
+    {
+      "name": "hn_session_id",
+      "value": "7356875db2bfd89a049617d74cc1f62e",
+      "domain": "qateam.hownow.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "browser.timezone",
+      "value": "Asia/Kolkata",
+      "domain": "qateam.hownow.app",
+      "path": "/",
+      "expires": 1773394121,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hn_app_session",
+      "value": "a54e307b1c8741f0f7e81b9c9276540e",
+      "domain": ".qateam.hownow.app",
+      "path": "/",
+      "expires": 1744450123.271517,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://qateam.hownow.app",
+      "localStorage": [
+        {
+          "name": "I18nLocale",
+          "value": "en"
+        },
+        {
+          "name": "hnSessionId",
+          "value": "7356875db2bfd89a049617d74cc1f62e"
+        }
+      ]
+    }
+  ]
+}
