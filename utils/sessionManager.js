@@ -18,16 +18,16 @@ if (!fs.existsSync(STORAGE_FOLDER)) {
 // Define users & their storage paths dynamically
 const CREDENTIALS = {
     staging: {
-        admin: { email: 'akhil.vutukuri@gethownow.com', password: 'Hownow123' },
-        manager: { email: 'akhil.vutukuri+manager2@gethownow.com', password: 'Hownow123' },
-        contributor: { email: 'akhil.vutukuri+contributor@gethownow.com', password: 'Hownow123' },
-        readonly: { email: 'akhil.vutukuri+readonly2@gethownow.com', password: 'Hownow123' }
+        admin: { email: 'akhil.vutukuri@gethownow.com', password: ' ' },
+        manager: { email: 'akhil.vutukuri+manager2@gethownow.com', password: ' ' },
+        contributor: { email: 'akhil.vutukuri+contributor@gethownow.com', password: ' ' },
+        readonly: { email: 'akhil.vutukuri+readonly2@gethownow.com', password: ' ' }
     },
     production: {
-        admin: { email: 'akhil.vutukuri@gethownow.com', password: 'Hownow123' },
-        manager: { email: 'akhil.vutukuri+manager@gethownow.com', password: 'Hownow123' },
-        contributor: { email: 'akhil.vutukuri+contributor@gethownow.com', password: 'Hownow123' },
-        readonly: { email: 'akhil.vutukuri+readonly@gethownow.com', password: 'Hownow12345' }
+        admin: { email: 'akhil.vutukuri@gethownow.com', password: ' ' },
+        manager: { email: 'akhil.vutukuri+manager@gethownow.com', password: ' ' },
+        contributor: { email: 'akhil.vutukuri+contributor@gethownow.com', password: ' ' },
+        readonly: { email: 'akhil.vutukuri+readonly@gethownow.com', password: ' ' }
     }
 };
 
