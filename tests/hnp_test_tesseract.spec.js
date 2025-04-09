@@ -5,7 +5,7 @@ import path from 'path'; // For handling file paths
 const Tesseract = require('tesseract.js');
 
 
-// Utility function to read JSON file synchronously
+// Utility function to read JSON file synchronously.
 const readJsonFile = (filePath) => {
     try {
         const data = fs.readFileSync(filePath, 'utf8'); // Read the file synchronously
